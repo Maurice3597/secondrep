@@ -1,1 +1,2 @@
 python codes in file3.txt
+This is a special folder in file3.txt
