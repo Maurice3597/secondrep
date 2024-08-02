@@ -1,0 +1,1 @@
+ for i in range(2, 100): if I %3 == 0 : print(i)
