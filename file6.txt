@@ -1,1 +1,3 @@
 This file6.txt was created in our main branch
+This is line two of file 6 .txt
+This is a file containg client's secrete info
