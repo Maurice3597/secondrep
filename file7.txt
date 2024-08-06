@@ -1,1 +1,2 @@
 This is line one of file7.txt
+Thisis the second line of file7.txt
